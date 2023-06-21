@@ -1,0 +1,48 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local development environment
+.env
+venv/
+.vscode/
+
+# # Flask specific
+# instance/
+# *.pyc
+
+# # Database files
+# *.db
+# *.sqlite
+# *.sql
+
+# # PostgreSQL specific
+# postgres_data/
+
+# # Logs and other generated files
+# logs/
+# *.log
+
+# # IDE specific files
+# .idea/
+# *.iml
+# *.swp
+
+# # Dependency directories
+# lib/
+# bin/
+# include/
+
+# # System or environment-specific files
+# .DS_Store
+# Thumbs.db
+
+# # Compiled files and build artifacts
+# *.exe
+# *.dll
+# *.so
+# *.dylib
+# dist/
+# build/
+# *.egg-info/
